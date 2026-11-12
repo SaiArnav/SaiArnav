@@ -16,7 +16,7 @@ I build full-stack apps, AI agents and vision-language pipelines, with security 
 <table>
 <tr>
 <td width="170"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,ts,js,go,java,c,cpp,html,css&theme=dark" alt="Languages" /></td>
+<td><img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" alt="Languages" /></td>
 </tr>
 <tr>
 <td><b>AI / ML</b></td>
@@ -44,21 +44,18 @@ I build full-stack apps, AI agents and vision-language pipelines, with security 
 </tr>
 <tr>
 <td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark" alt="Frontend" /><br/>
-<img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" /><br/>
 <img src="https://img.shields.io/badge/Java_Swing-0d1117?style=flat-square&logo=openjdk&logoColor=white" alt="Java Swing" />
 </td>
 </tr>
 <tr>
 <td><b>Backend & data</b></td>
-<td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,prisma,postgres,mongodb,sqlite&theme=dark" alt="Backend and data" /><br/>
-<img src="https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-<img src="https://img.shields.io/badge/Rasterio_·_GeoTIFF-0d1117?style=flat-square&logo=python&logoColor=white" alt="Rasterio" />
+<td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb&theme=dark" alt="Backend and data" />
 </td>
 </tr>
 <tr>
 <td><b>DevOps & tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify,git,github,linux,bash,vscode&theme=dark" alt="DevOps and tools" /></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark" alt="DevOps and tools" /></td>
 </tr>
 </table>
 
