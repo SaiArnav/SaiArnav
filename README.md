@@ -26,7 +26,6 @@ I build full-stack apps, AI agents and vision-language pipelines, with security 
 <img src="https://img.shields.io/badge/Hugging_Face_Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face Transformers" />
 <img src="https://img.shields.io/badge/QLoRA_fine--tuning-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="QLoRA fine-tuning" />
 <img src="https://img.shields.io/badge/Vision--Language_Models-0d1117?style=flat-square&logo=meta&logoColor=white" alt="Vision-language models" />
-<img src="https://img.shields.io/badge/Florence--2-0d1117?style=flat-square&logo=microsoft&logoColor=white" alt="Florence-2" />
 <img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/sentence--transformers-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="sentence-transformers" />
 <img src="https://img.shields.io/badge/Tesseract_OCR-0d1117?style=flat-square&logo=google&logoColor=white" alt="Tesseract OCR" />
