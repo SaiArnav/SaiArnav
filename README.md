@@ -31,15 +31,13 @@ I build full-stack web apps, AI tools and terminal software, with security in mi
 
 | | Project | What it does | Stack |
 |:-:|:--|:--|:--|
-| ⚡ | [**QuizArena**](https://github.com/SaiArnav/QuizArena) | Turns any PDF or slide deck into a live multiplayer quiz with PINs, QR codes and leaderboards | Next.js · FastAPI · Socket.IO · PostgreSQL |
 | 💬 | [**ZetaChat**](https://github.com/SaiArnav/ZetaChat) | Terminal-first messaging client for Telegram and WhatsApp | Go · Bubble Tea · SQLite |
 | 📈 | [**MarketAutopsy**](https://github.com/SaiArnav/Market-Autopsy) | AI market intelligence that monitors companies from public signals | Next.js · Prisma · PostgreSQL · Three.js |
 | 🧠 | [**EMOS**](https://github.com/SaiArnav/EMOS-Project) | Enterprise memory OS that turns meetings into searchable decisions and tasks | Next.js · FastAPI · Docker |
 | 🎓 | [**AcademiMatch-CLI**](https://github.com/SaiArnav/AI_Agent) | RAG chatbot that matches students with faculty research | LangGraph · LangChain · ChromaDB |
-| 🛰️ | [**SatQuery AI**](https://github.com/SaiArnav/SatQuery-AI-SIH) | Map-based satellite data querying, built for SIH | React · Vite · Leaflet · Python |
-| 🚲 | [**CycloScan**](https://github.com/SaiArnav/Cycloscan) | Road-damage monitoring platform with a live console | Node.js · PostgreSQL |
 | 📝 | [**FormForge**](https://github.com/SaiArnav/FormForge) | Drag-and-drop form builder with exports and analytics | Next.js · Prisma · Zod |
-| 🎟️ | [**UXplore '26**](https://github.com/SaiArnav/Uxplore-26) | Event registration portal with Razorpay payments and an admin dashboard | Express · MongoDB · Vercel |
+| ✅ | [**TaskFlow**](https://github.com/SaiArnav/TaskFlow_Java_CEP) | Desktop task manager with a Swing UI | Java · Swing |
+| 📚 | [**Library Management System**](https://github.com/SaiArnav/library-management-system) | Menu-driven library system with issue/return, fines, search and recommendations | C · Data Structures |
 
 <br/>
 
