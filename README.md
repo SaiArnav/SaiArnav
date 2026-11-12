@@ -44,18 +44,18 @@ I build full-stack apps, AI agents and vision-language pipelines, with security 
 </tr>
 <tr>
 <td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" /><br/>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend" /><br/>
 <img src="https://img.shields.io/badge/Java_Swing-0d1117?style=flat-square&logo=openjdk&logoColor=white" alt="Java Swing" />
 </td>
 </tr>
 <tr>
 <td><b>Backend & data</b></td>
-<td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb&theme=dark" alt="Backend and data" />
+<td><img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb&theme=dark" alt="Backend and data" />
 </td>
 </tr>
 <tr>
 <td><b>DevOps & tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark" alt="DevOps and tools" /></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,linux,bash,vscode&theme=dark" alt="DevOps and tools" /></td>
 </tr>
 </table>
 
